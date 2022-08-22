@@ -1,2 +1,2 @@
-# IFC-BSI-
-Atividades durante o curso de BSI
+# IFC-BSI- programação
+Atividades durante o curso de programação.
